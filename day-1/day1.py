@@ -36,18 +36,6 @@ numbers = {
     "nine": "9",
 }
 
-lookup_nums = [
-    "one",
-    "two",
-    "three",
-    "four",
-    "five",
-    "six",
-    "seven",
-    "eight",
-    "nine",
-]
-
 for i in range(len(data)):
     row_indices = {}
     for val in numbers:
